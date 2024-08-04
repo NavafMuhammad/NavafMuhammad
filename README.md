@@ -4,10 +4,15 @@
 # 👋 Hello, I'm Mohammed Nawaf
 #### Flutter Developer | Web Developer | Lifelong Learner
 
+## 🤝 Connect with me:
+
+- [LinkedIn](www.linkedin.com/in/mohammed-nawaf-6a96491ba/)
+- [navafmuhd@gmail.com]()
 
 ##  🌟 About Me 
 
-I'm a passionate Flutter developer dedicated to building high-quality, user-friendly applications. I thrive on solving complex problems with creative solutions that improve user experiences and drive business growth.
+I'm a passionate Flutter developer dedicated to building high-quality, user-friendly applications. I thrive on solving complex problems with creative solutions that improve user experiences and drive business growth. 
+Also I'm a self-taught developer driven by curiosity and a passion for continuous learning. My journey in technology started with creating simple websites and has evolved into developing sophisticated mobile applications. I believe in the power of collaboration and am always eager to connect with like-minded individuals.
 
   - 🔭 I’m currently working on enhancing my skills in Flutter and exploring new technologies.
   - 🌱 I’m currently learning advanced Flutter concepts and best practices in mobile development.
@@ -64,8 +69,6 @@ I'm a passionate Flutter developer dedicated to building high-quality, user-frie
 ![Navaf Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=NavafMuhammad&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NavafMuhammad&layout=compact)
 
-## 🧠 Personal Philosophy
-I'm a self-taught developer driven by curiosity and a passion for continuous learning. My journey in technology started with creating simple websites and has evolved into developing sophisticated mobile applications. I believe in the power of collaboration and am always eager to connect with like-minded individuals.
 
 
 
